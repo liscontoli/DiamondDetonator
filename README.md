@@ -72,10 +72,14 @@ Then, install Pygame:
 pip3 install pygame
 
 
-# Run the game
+## 🚀 Run the Game
 
-You can double click on `diamondDetonator.py` or run the following command from the terminal
+You can launch Diamond Detonator in two ways:
 
+**1️⃣ Double-click method (GUI)**
+- Navigate to the game folder.
+- Double-click on `diamondDetonator.py`.
+
+**2️⃣ Terminal/Command Line method**
 ```bash
 python3 diamondDetonator.py
-```

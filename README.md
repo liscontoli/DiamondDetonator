@@ -48,6 +48,14 @@ Watch the full gameplay demo on [YouTube](https://youtu.be/a-OIm_v7aKQ?si=JcbmYs
 - Clean Save/Load: Persists settings (audio, match size, layout) between sessions.
 
 
+## Tech Stack
+- **Language:** Python
+- **Framework:** Pygame
+- **Database:** SQLite (local high score storage)
+- **Design:** Figma (UI/UX layout and assets)
+- **Platform:** Desktop (Windows/macOS/Linux)
+
+
 # Requirements
 
 - Python 3.9+

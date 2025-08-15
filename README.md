@@ -6,14 +6,14 @@
 
 Diamond Detonator is a fast, strategic twist on the classic match-3. Built with Python + Pygame and a sleek gothic UI from Figma, it lets you choose match sizes (3–5) and play across multiple board layouts. Trigger chain reactions with Special Diamonds that clear all gems of their color, rack up combo scores, and chase your personal best with local high scores (SQLite). Hints, pause, and sound toggles keep it friendly for quick sessions or deep runs—how big can you detonate?
 
-## 🎥 Demo
+## Demo
 <p align="center">
   <a href="https://youtu.be/a-OIm_v7aKQ?si=2XCH77O_Lt7uL-ua">
     <img src="https://img.youtube.com/vi/a-OIm_v7aKQ/maxresdefault.jpg" width="500">
   </a>
 </p>
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="Screenshots/DD_SplashScreen.png" alt="Splash Screen" width="500">
 </p>
@@ -36,7 +36,7 @@ Diamond Detonator is a fast, strategic twist on the classic match-3. Built with 
   <img src="Screenshots/DD_GameoverScreen.png" alt="Game Over Screen" width="500">
 </p>
 
-## ✨ Features
+## Features
 - Match-any size: Choose 3, 4, or 5-in-a-row for different challenge levels.
 - Special Diamonds: Trigger color-clears and chain reactions for huge combo scores.
 - Combo & Multiplier System: Back-to-back detonations ramp your multiplier.
@@ -50,18 +50,18 @@ Diamond Detonator is a fast, strategic twist on the classic match-3. Built with 
 - Responsive Performance: Smooth animations with Pygame on modest hardware.
 - Clean Save/Load: Persists settings (audio, match size, layout) between sessions.
 
-## 📦 Tech Stack
+## Tech Stack
 - **Language:** Python
 - **Framework:** Pygame
 - **Database:** SQLite (local high score storage)
 - **Design:** Figma (UI/UX layout and assets)
 - **Platform:** Desktop (Windows/macOS/Linux)
 
-## 🛠 Requirements
+## Requirements
 - Python 3.9+
 - Pygame 2
 
-## 💻 Installation
+## Installation
 On Linux or macOS, Python3 is preinstalled.  
 On Windows, download the latest version of Python3 from the [official website](https://www.python.org/) and install it.  
 Make sure you check the **"Add Python3 to PATH"** box at the start of the installation.
@@ -72,14 +72,14 @@ Then, install Pygame:
 pip3 install pygame
 ```
 
-## 🚀 Run the Game
+## Run the Game
 
 You can launch Diamond Detonator in two ways:
 
-**1️⃣ Double-click method (GUI)**
+**Double-click method (GUI)**
 - Navigate to the game folder.
 - Double-click on `diamondDetonator.py`.
 
-**2️⃣ Terminal/Command Line method**
+**Terminal/Command Line method**
 ```bash
 python3 diamondDetonator.py

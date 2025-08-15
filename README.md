@@ -5,6 +5,10 @@
 Diamond Detonator is a fast, strategic twist on the classic match-3. Built with Python + Pygame and a sleek gothic UI from Figma, it lets you choose match sizes (3–5) and play across multiple board layouts. Trigger chain reactions with Special Diamonds that clear all gems of their color, rack up combo scores, and chase your personal best with local high scores (SQLite). Hints, pause, and sound toggles keep it friendly for quick sessions or deep runs—how big can you detonate?
 
 
+## Demo
+[![Watch the video](https://img.youtube.com/vi/a-OIm_v7aKQ/maxresdefault.jpg)](https://youtu.be/a-OIm_v7aKQ?si=2XCH77O_Lt7uL-ua)
+
+
 ## Screenshots
 ![Splash Screen](Screenshots/DD_SplashScreen.png)
 ![Main Screen](Screenshots/DD_MainScreen.png)
@@ -18,10 +22,6 @@ Diamond Detonator is a fast, strategic twist on the classic match-3. Built with 
 ![Settings Screen](Screenshots/DD_SettingsScreen.png)
 
 ![Gameover Screen](Screenshots/DD_GameoverScreen.png)
-
-
-## Demo
-Watch the full gameplay demo on [YouTube](https://youtu.be/a-OIm_v7aKQ?si=JcbmYsfSCMUijPKm).
 
 
 ## Features

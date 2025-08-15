@@ -70,7 +70,7 @@ Then, install Pygame:
 
 ```bash
 pip3 install pygame
-
+```
 
 ## 🚀 Run the Game
 

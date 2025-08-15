@@ -17,7 +17,7 @@ Diamond Detonator is a fast, strategic twist on the classic match-3. Built with 
 
 ![Settings Screen](Screenshots/DD_SettingsScreen.png)
 
-![Gameover Screen](Screenshots/screenshot2.png)
+![Gameover Screen](Screenshots/DD_GameoverScreen.png)
 
 
 ## Demo

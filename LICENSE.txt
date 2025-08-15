@@ -1,0 +1,7 @@
+© 2025 Lis Contoli. All rights reserved.
+
+This software and all its content are the intellectual property of Lis Contoli. 
+No part of this codebase may be copied, redistributed, modified, published, or used 
+for commercial or educational purposes without explicit written permission.
+
+This repository is intended for private portfolio demonstration only.
